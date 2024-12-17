@@ -1,5 +1,3 @@
-# Towards Safer Skies: Predictive Maintenance for Aviation
-
 ## Overview
 Unexpected part failures in aviation pose safety risks, disrupt operations, and lead to financial losses. Traditional maintenance strategies—such as scheduled servicing or reactive repairs—are costly and often ineffective.  
 
