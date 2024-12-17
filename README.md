@@ -10,8 +10,8 @@ This project leverages the National General Aviation Flight Information Database
 - Classification models with a focus on explainability to enhance trust and usability
 
 ## Files Included
-1. **`Dataset.xlsx`**: Contains raw flight sensor data and maintenance logs
-2. **`Data_filtering.ipynb`**: Filters target data
+1. **`Dataset.xlsx`**: Contains raw flight sensor data and maintenance logs (Processing raw data takes a lot of time and computing power, so we've only uploaded the cleaned version of the dataset)
+2. **`Data_filtering.ipynb`**: Filters and extracts the relevant target data for modeling
 3. **`Data_Cleaning.ipynb`**: Preprocesses and cleans the dataset
 4. **`EDA.ipynb`**: Performs exploratory data analysis
 5. **`Features_selection.ipynb`**: Identifies important features for the models
