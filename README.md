@@ -11,14 +11,17 @@ This project leverages the National General Aviation Flight Information Database
 
 ## Files Included
 1. **`Dataset.xlsx`**: Contains raw flight sensor data and maintenance logs
-2. **`Data_Cleaning.ipynb`**: Preprocesses and cleans the dataset
-3. **`EDA.ipynb`**: Performs exploratory data analysis
-4. **`Features_selection.ipynb`**: Identifies important features for the models
-5. **`Model_Evaluation.ipynb`**: Trains and evaluates machine learning models
+2. **`Data_filtering.ipynb`**: Filters target data
+3. **`Data_Cleaning.ipynb`**: Preprocesses and cleans the dataset
+4. **`EDA.ipynb`**: Performs exploratory data analysis
+5. **`Features_selection.ipynb`**: Identifies important features for the models
+6. **`Model_Evaluation.ipynb`**: Trains and evaluates machine learning models
 
 ## How to Use
 1. Clone this repository
 2. Follow the Workflow
+- **Filter target data**: 
+  Use **`Data_filtering.ipynb`** to filter and extract the relevant target data for modeling
 - **Preprocess the Data**:  
    Open **`Data_Cleaning.ipynb`** to clean and prepare the dataset
 
