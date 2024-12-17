@@ -22,6 +22,7 @@ This project leverages the National General Aviation Flight Information Database
 2. Follow the Workflow
 - **Filter target data**:
    Use **`Data_filtering.ipynb`** to filter and extract the relevant target data for modeling
+  
 - **Preprocess the Data**:  
    Open **`Data_Cleaning.ipynb`** to clean and prepare the dataset
 
